@@ -1,7 +1,7 @@
 variable "resource_group_name"{
-    description = "Name of Resurce Group"
-    type        = string
-    default     = "iac-devops-rg-07"
+    description = "Name of  Resource Group"
+    type        =  string
+    default     = "iac-devops-rg-00"
 }
 
 variable "location" {
